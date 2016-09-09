@@ -1,0 +1,9 @@
+name: notebooks
+dependencies:
+- python=3
+- numpy
+- scipy
+- matplotlib
+- ipython
+- jupyter
+- seaborn
